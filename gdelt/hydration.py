@@ -205,3 +205,4 @@ parser.add_commands([main])
 if __name__ == "__main__":
     # Executes the program from terminal
     parser.dispatch()
+
